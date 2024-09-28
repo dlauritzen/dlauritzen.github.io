@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines
 domain: dlauritzen.github.io
 baseurl: ""
 url: https://dlauritzen.github.io
+timezone: America/Los_Angeles
 
 author:
   name: Dallin Lauritzen
