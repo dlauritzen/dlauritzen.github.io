@@ -15,10 +15,13 @@ gem "minima", "~> 2.5"
 gem "github-pages", "~> 232", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  # gem "jekyll-remote-theme"
+  gem "jekyll-sass-converter"
   gem "jekyll-redirect-from"
+  gem "jekyll-figure"
+  gem "jekyll-paginate"
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-archives"
-  gem "jekyll-remote-theme"
   gem "jekyll-sitemap"
 end
 
