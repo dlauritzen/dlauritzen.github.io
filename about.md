@@ -15,6 +15,8 @@ I am also gay. This blog in its current form began with my [coming-out][4] and c
 I'm a Ravenclaw at Hogwarts and a Wampus at Ilvermorny.
 
 <ul class="social-media-list">
+  {%- if site.bluesky_username -%}<li><a href="https://bsky.app/profile/{{ site.bluesky_username| cgi_escape | escape }}"><img class="svg-icon" src="/assets/icons/nucleo-bluesky.svg" /></a></li>{%- endif -%}
+  
   {%- if site.facebook_username -%}<li><a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}"><img class="svg-icon" src="/assets/icons/nucleo-facebook.svg" /></a></li>{%- endif -%}
   
   {%- if site.instagram_username -%}<li><a href="https://instagram.com/{{ site.instagram_username| cgi_escape | escape }}"><img class="svg-icon" src="/assets/icons/nucleo-instagram.svg" /></a></li>{%- endif -%}
