@@ -2,6 +2,7 @@
 layout: post
 title: "Sight: Cataracts, Part 1"
 date: 2025-02-23 20:45:00 -0800
+last_modified_at: 2025-02-26 18:38:00 -0800
 ---
 
 Once upon a December, just over two years ago, I went to work one Monday morning and was shocked at a disorienting sensation of blurriness when looking at my bright computer monitor. My right eye wasn't focusing properly on the text, while my left eye was working just fine.
@@ -32,13 +33,13 @@ Apart from the fancy machines, this is where the different clinic really shined.
 
 After the exam, she said that my prescription didn't turn out to be very different from before, which was briefly heartbreaking. But then she said, "and I know why. I've known since I saw the first picture, but didn't want that to effect your answers."
 
-She brought up the images from the first machine and showed me the cataracts in the right eye, dead center and blocking my ability to see detail. I looked up an opthamologist and had her send in a referral.
+She brought up the images from the first machine and showed me the cataracts in the right eye, dead center and blocking my ability to see detail. I looked up an ophthalmologist and had her send in a referral.
 
-Two days ago (February 2025) I met with the opthamologist. They took similar images, but some were much fancier, and gave me another eye exam (but less pressure since it was only to see how bad things were, not to produce an actual prescription). He explained how the surgery would go and let me ask questions. After getting home I spent much of the day researching things and actually internalizing much of the possibilities.
+Two days ago (February 2025) I met with the ophthalmologist. They took similar images, but some were much fancier, and gave me another eye exam (but less pressure since it was only to see how bad things were, not to produce an actual prescription). He explained how the surgery would go and let me ask questions. After getting home I spent much of the day researching things and actually internalizing much of the possibilities.
 
 At this point, I think I know which lens I'll get, but the timing of the surgery depends on his response to some questions I sent in over email. I wanted to write up this post as the first in a series chronicling this major event, before and after. I want to capture the way things appear now and compare it with how the world looks through new eyes.
 
-> Honorable Mention: I made a really funny joke earlier today. The opthamologist is very attractive, much younger than I expected, and I whipped up the tragically cheesy line: "I'm just happy that the last thing I see with my natural eyes will be your face." I hope he never finds this blog.
+> Honorable Mention: I made a really funny joke earlier today. The ophthalmologist is very attractive, much younger than I expected, and I whipped up the tragically cheesy line: "I'm just happy that the last thing I see with my natural eyes will be your face." I hope he never finds this blog.
 
 ---
 
