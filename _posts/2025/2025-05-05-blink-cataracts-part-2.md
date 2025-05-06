@@ -31,4 +31,5 @@ So today I paid $3750 for the first lens (insurance is never involved for the pr
 I always find the inexorable flow of time interesting in moments like this. Two years of slowly worsening eyesight, four months of intermittent appointments, and in only three days I'll have a partially new eye.
 
 [1]: {% post_url /2025/2025-02-23-sight-cataracts-part-1 %}
-[2]: https://www.aao.org/eye-health/anatomy/tear-film-3 {: .external target="_blank"}
+[2]: https://www.aao.org/eye-health/anatomy/tear-film-3
+  {: .external target="_blank"}
